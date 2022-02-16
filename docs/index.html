@@ -13,10 +13,16 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'Awna',
-      repo: '',
       loadSidebar: true,
-      subMaxLevel: 1
+      subMaxLevel: 3,
+      auto2top: true,
+      basePath: '/',
+      name: 'awna',
+      noEmoji: true,
+      alias: {
+        '/docs/.*/_sidebar.md': '/docs/_sidebar.md'
+      },
+      routerMode: 'history',
     }
   </script>
   <!-- Docsify v4 -->
