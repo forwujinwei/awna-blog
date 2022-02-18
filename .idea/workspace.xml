@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25e693e9-90fd-4c8d-b683-68bd9a2e2577" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="224cxeRtMBiHz1sO1M0ypabmztf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25e693e9-90fd-4c8d-b683-68bd9a2e2577" name="Default Changelist" comment="" />
+      <created>1639100549690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639100549690</updated>
+      <workItem from="1639100551317" duration="1370000" />
+      <workItem from="1639107424145" duration="2368000" />
+      <workItem from="1639211724022" duration="23000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1639115363132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639115363132</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1639116388928</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639116388928</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="25" key="CommitChangelistDialog2" timestamp="1639116388660">
+      <screen x="0" y="25" width="1440" height="800" />
+    </state>
+    <state x="304" y="25" key="CommitChangelistDialog2/0.25.1440.798/1440.25.1920.1055@0.25.1440.798" timestamp="1639115362874" />
+    <state x="304" y="25" key="CommitChangelistDialog2/0.25.1440.800/1440.25.1920.1055@0.25.1440.800" timestamp="1639116388660" />
+    <state x="320" y="162" key="Vcs.Push.Dialog.v2" timestamp="1639116390252">
+      <screen x="0" y="25" width="1440" height="800" />
+    </state>
+    <state x="320" y="162" key="Vcs.Push.Dialog.v2/0.25.1440.798/1440.25.1920.1055@0.25.1440.798" timestamp="1639115365005" />
+    <state x="320" y="162" key="Vcs.Push.Dialog.v2/0.25.1440.800/1440.25.1920.1055@0.25.1440.800" timestamp="1639116390252" />
+    <state x="521" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1639115263161">
+      <screen x="0" y="25" width="1440" height="798" />
+    </state>
+    <state x="521" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.798/1440.25.1920.1055@0.25.1440.798" timestamp="1639115263161" />
+  </component>
+</project>
