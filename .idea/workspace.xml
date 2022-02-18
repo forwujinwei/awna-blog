@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="25e693e9-90fd-4c8d-b683-68bd9a2e2577" name="Default Changelist" comment="" />
+=======
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="758292cd-1de3-413e-9c58-d1d45ba09900" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    </list>
+>>>>>>> a9d93ad64d233dc2be6a2896ddf841466e1f433a
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,16 +43,26 @@
       </MavenGeneralSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="224cxeRtMBiHz1sO1M0ypabmztf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+=======
+  <component name="ProjectId" id="25AirXyWKEAQCd1NS91lfCoWljn" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+>>>>>>> a9d93ad64d233dc2be6a2896ddf841466e1f433a
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/middleware/es" />
+>>>>>>> a9d93ad64d233dc2be6a2896ddf841466e1f433a
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -36,6 +71,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+<<<<<<< HEAD
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,11 +99,45 @@
       <updated>1639116388928</updated>
     </task>
     <option name="localTasksCounter" value="3" />
+=======
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/middleware/es" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="758292cd-1de3-413e-9c58-d1d45ba09900" name="Default Changelist" comment="" />
+      <created>1644976492405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644976492405</updated>
+      <workItem from="1644976494036" duration="650000" />
+      <workItem from="1645064360436" duration="5392000" />
+    </task>
+>>>>>>> a9d93ad64d233dc2be6a2896ddf841466e1f433a
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <option name="LAST_COMMIT_MESSAGE" value="init" />
@@ -87,5 +157,35 @@
       <screen x="0" y="25" width="1440" height="798" />
     </state>
     <state x="521" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.798/1440.25.1920.1055@0.25.1440.798" timestamp="1639115263161" />
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="153" y="125" width="1187" height="675" key="DiffContextDialog" timestamp="1645064667307">
+      <screen x="53" y="25" width="1387" height="875" />
+    </state>
+    <state x="153" y="125" width="1187" height="675" key="DiffContextDialog/53.25.1387.875/1440.25.1920.1055@53.25.1387.875" timestamp="1645064667307" />
+    <state x="546" y="169" key="RollbackChangesDialog" timestamp="1645065133160">
+      <screen x="53" y="25" width="1387" height="875" />
+    </state>
+    <state x="546" y="169" key="RollbackChangesDialog/53.25.1387.875/1440.25.1920.1055@53.25.1387.875" timestamp="1645065133160" />
+    <state x="548" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1645064463145">
+      <screen x="53" y="25" width="1387" height="875" />
+    </state>
+    <state x="548" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/53.25.1387.875/1440.25.1920.1055@53.25.1387.875" timestamp="1645064463145" />
+    <state x="1784" y="212" key="new project wizard" timestamp="1644976521145">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1784" y="212" key="new project wizard/53.25.1387.875/1440.25.1920.1055@1440.25.1920.1055" timestamp="1644976521145" />
+>>>>>>> a9d93ad64d233dc2be6a2896ddf841466e1f433a
   </component>
 </project>
