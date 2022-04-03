@@ -1,5 +1,7 @@
 - Flutter
   - [flutter学习路线](/mobile/flutter/001_flutter学习路线)
   - [常用网站](/mobile/flutter/002_常用网站)
+  - [环境搭建](/mobile/flutter/003_环境搭建)
   - [常用插件](/mobile/flutter/020_常用插件)
+  - [helloword](/mobile/flutter/004_hellloword)
 
