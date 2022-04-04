@@ -4,4 +4,4 @@
   - [环境搭建](/mobile/flutter/003_环境搭建)
   - [常用插件](/mobile/flutter/020_常用插件)
   - [helloword](/mobile/flutter/004_hellloword)
-
+  - [桌面端构建](/mobile/flutter/010_flutter构建桌面端)
