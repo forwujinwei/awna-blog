@@ -15,5 +15,7 @@
   - [qiankun](/fe/qiankun/)
 * [移动端](/mobile/)
   - [flutter](/mobile/flutter/)
+* [工具](/tool/)
+  - [markdown](/tool/markdown)
 * [源码](/code/)
 * [常用表](/table/)
