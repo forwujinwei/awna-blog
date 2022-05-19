@@ -2,7 +2,7 @@
 
 引用于https://github.com/olexale/flutter_roadmap
 
-![roadmap](https://gitee.com/Awna/pic/raw/master/FlutterRoadmap.png)
+![roadmap](../images/FlutterRoadmap.png)
 
 #### Dev Environment
 
@@ -124,7 +124,7 @@ by Oleksandr Leuschenko (@oleaxe)
   - Git (Nice to have)
   - DartPad (Optional)
 
-  Choose either **Android Studio** or **VSC** and learn **shortcuts** and IDE **plugins**. A few hours spent on shortcuts will save you weeks later. It is useful to know Flutter CLI as some tasks are faster to get done from the command line.
+  Choose either **Android Studio** or **VSC** and learn **shortcuts** and IDE **plugins**. A few hours spent on shortcuts will save you weeks later.It is useful to know Flutter CLI as some tasks are faster to get done from the command line.
 
   Create a habit to use a version control system the sooner the better. For today the most popular is Git. While you might look cool using command line, prefer **Fork**, **Sourcetree**, or Git client integrated into your **IDE**.
 
@@ -135,7 +135,7 @@ by Oleksandr Leuschenko (@oleaxe)
   - Functional (Nice to have)
   - Code Style (Optional)
 
-  It is important to follow code style, but if you’re completely new it might add frustration, so feel free to skip it for now, but get back to it later. “Effective Dart” manual is a way to go.  Speaking of OOP and Functional - for now, keep it simple. No worries about monads or complex OOP patterns at this stage.
+  It is important to follow code style, but if you’re completely new it might add frustration, so feel free to skip it for now, but get back to it later. “Effective Dart” manual is a way to go. Speaking of OOP and Functional - for now, keep it simple. No worries about monads or complex OOP patterns at this stage.
 
 ## Flutter
 
@@ -167,7 +167,7 @@ by Oleksandr Leuschenko (@oleaxe)
   - DRY (Must have)
   - SOLID (Nice to have)
 
-  KISS and DRY must be your tactical skills during software development, but SOLID principles are your strategic foundation. **Clean Code by Uncle Bob** will help you with all of them.  Start using **Provider** or **get_it**.
+  KISS and DRY must be your tactical skills during software development, but SOLID principles are your strategic foundation. **Clean Code by Uncle Bob** will help you with all of them.Start using **Provider** or **get_it**.
 
 - **Networking**
 
@@ -220,7 +220,7 @@ by Oleksandr Leuschenko (@oleaxe)
   - Swift
   - Kotlin
 
-  Learning native mobile development is beneficial for better platform understanding. At some point you’ll find that you need to fix an issue in a third-party library or to develop your own plugin. Start with the **Udacity course for Android** and **Stanford Course for iOS**. 
+  Learning native mobile development is beneficial for better platform understanding. At some point you’ll find that you need to fix an issue in a third-party library or to develop your own plugin. Start with the **Udacity course for Android** and **Stanford Course for iOS**.
 
 - **Dart** (Must have)
 
@@ -228,7 +228,7 @@ by Oleksandr Leuschenko (@oleaxe)
   - Reactive
   - Functional
 
-  Now it is time to understand how async/await really works, what is monad, why stateless is beneficial.  You may try **freezed** here. For deep understaning, a basic course on Closure or F# is recommended.
+  Now it is time to understand how async/await really works, what is monad, why stateless is beneficial. You may try **freezed** here. For deep understaning, a basic course on Closure or F# is recommended.
 
 - **Package Manager**
 
@@ -268,7 +268,7 @@ by Oleksandr Leuschenko (@oleaxe)
   - FastLane (Must have)
   - Code metrics (Optional)
 
-  Never ever create production builds from the local dev folder. You may use Codemagic, Travis, GitHub Actions, Circle CI, or (in the worst scenario) register your dev machine as a CI node. Build the software development lifecycle, collect code coverage and other metrics.  Read about **Danger**, **SonarQube**, but most importantly - **FastLane**.
+  Never ever create production builds from the local dev folder. You may use Codemagic, Travis, GitHub Actions, Circle CI, or (in the worst scenario) register your dev machine as a CI node. Build the software development lifecycle, collect code coverage and other metrics. Read about **Danger**, **SonarQube**, but most importantly - **FastLane**.
 
 - **Analytics**
 

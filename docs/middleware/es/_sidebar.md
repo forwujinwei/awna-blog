@@ -1,6 +1,11 @@
-- ES
-  - [基本概念](middleware/es/001_基本概念.md) 
-  - [数据类型](middleware/es/002_数据类型.md) 
-  - [基本操作](middleware/es/003_基本操作.md) 
-  - [常用查询](middleware/es/004_常用查询.md)
-
+* 基础篇
+  - [基本概念](middleware/es/base/001_基本概念.md) 
+  - [数据类型](middleware/es/base/002_数据类型.md) 
+  - [基本操作](middleware/es/base/003_基本操作.md) 
+  - [常用查询](middleware/es/base/004_常用查询.md)
+* 实战篇
+  - [索引重建](middleware/es/combat/101_索引重建.md)
+  - [文档刷新](middleware/es/combat/102_文档刷新.md)
+  - [搜索建议](middleware/es/combat/103_搜索建议.md)
+  - [搜索亮度](middleware/es/combat/104_搜索亮量.md)
+  - [地理位置](middleware/es/combat/105_地理位置.md)

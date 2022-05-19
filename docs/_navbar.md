@@ -1,21 +1,27 @@
 <!-- _navbar.md --> 
 
-* [后端](/be/) 
+* 后端
   - [JAVA](/be/java/)
   - [设计模式](/be/gof/)
-* [中间件](/middleware/)
+* 中间件
   - [ES](/middleware/es/)
   - [Redis](/middleware/redis/)
-  - [MQ](/middleware/MQ/)
+  - [rocketmq](/middleware/rocketmq/)
   - [mysql](/middleware/mysql/)
   - [flowable](/middleware/flowable/)
+  - [grafana](/middleware/grafana/)
   - [Prometheus](/middleware/prometheus/)
-* [前端](/fe/)
+* 前端
   - [VUE](/fe/vue/)
+  - [webpack](/fe/webpack/)
   - [qiankun](/fe/qiankun/)
-* [移动端](/mobile/)
+* 移动端
   - [flutter](/mobile/flutter/)
-* [工具](/tool/)
+* 工具
+  - [docsify](/tool/docsify)
   - [markdown](/tool/markdown)
-* [源码](/code/)
-* [常用表](/table/)
+  - [postman](/tool/postman)
+  - [vscode](/tool/vscode)
+* 源码
+  - [rocketmq](/open/rocketmq)
+* 常用表
