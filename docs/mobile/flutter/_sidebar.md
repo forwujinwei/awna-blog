@@ -27,5 +27,7 @@
 * 插件篇
   - [常用插件](/mobile/flutter/plugins/401_常用插件)
   - [Getx](/mobile/flutter/plugins/402_getx)
+* 实战篇
+  - [flutter多环境配置管理](/mobile/flutter/demo/004_多环境配置管理)
 * 问题篇
   - [常见问题](/mobile/flutter/901_常见问题)
